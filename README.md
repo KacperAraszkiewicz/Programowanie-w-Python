@@ -1,0 +1,1 @@
+Kacper Araszkiewicz 288582 Programowanie w języku Python
